@@ -1,0 +1,306 @@
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_0", "sent_faithfulness": 0.7495883454879125, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_1", "sent_faithfulness": 0.8590822262423379, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_2", "sent_faithfulness": 0.7893949406487601, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_3", "sent_faithfulness": 0.8675300693139434, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_4", "sent_faithfulness": 0.8397041726857424, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_5", "sent_faithfulness": 0.8172024255618453, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_6", "sent_faithfulness": 0.7405093800690439, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_7", "sent_faithfulness": 0.8059586370363832, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_8", "sent_faithfulness": 0.7377854734659195, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_9", "sent_faithfulness": 0.8757674619555473, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_10", "sent_faithfulness": 0.8478724211454391, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_11", "sent_faithfulness": 0.7439101735750834, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_12", "sent_faithfulness": 0.6755987120171388, "coverage": 0.6666666666666666, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_13", "sent_faithfulness": 0.8658590149134398, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_14", "sent_faithfulness": 0.7688486184924841, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_15", "sent_faithfulness": 0.8285754979588091, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_16", "sent_faithfulness": 0.6601595673710108, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_17", "sent_faithfulness": 0.8181314255510058, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_18", "sent_faithfulness": 0.8764887278278669, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_19", "sent_faithfulness": 0.81304713152349, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_20", "sent_faithfulness": 0.8363513499498367, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_21", "sent_faithfulness": 0.7461404154698054, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_22", "sent_faithfulness": 0.7826332286000252, "coverage": 0.8, "n_sents": 10}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_23", "sent_faithfulness": 0.8651544385486178, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_24", "sent_faithfulness": 0.8469224758446217, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_25", "sent_faithfulness": 0.8546316479332745, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_26", "sent_faithfulness": 0.7448347849505288, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_27", "sent_faithfulness": 0.9205596521496773, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_28", "sent_faithfulness": 0.8305677069084985, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "2022년성교육교재_v1_window_29", "sent_faithfulness": 0.8026234996505082, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_0", "sent_faithfulness": 0.7882814308007559, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_1", "sent_faithfulness": 0.8337928227015904, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_2", "sent_faithfulness": 0.8616290837526321, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_3", "sent_faithfulness": 0.9006648138165474, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_4", "sent_faithfulness": 0.8635715693235397, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_5", "sent_faithfulness": 0.8486941177397966, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_6", "sent_faithfulness": 0.8034832794219255, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_7", "sent_faithfulness": 0.779140492901206, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_8", "sent_faithfulness": 0.8699988685548306, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_9", "sent_faithfulness": 0.7817439883947372, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_10", "sent_faithfulness": 0.6908948440104723, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_11", "sent_faithfulness": 0.602934044599533, "coverage": 0.6, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_12", "sent_faithfulness": 0.8328394293785095, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_13", "sent_faithfulness": 0.8699289187788963, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_14", "sent_faithfulness": 0.9103695021735297, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_15", "sent_faithfulness": 0.8777411617338657, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_16", "sent_faithfulness": 0.8501657769083977, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_17", "sent_faithfulness": 0.38073462740119013, "coverage": 0.2857142857142857, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_18", "sent_faithfulness": 0.830869022756815, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_19", "sent_faithfulness": 0.6349539541535907, "coverage": 0.5555555555555556, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_20", "sent_faithfulness": 0.809414035330216, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_21", "sent_faithfulness": 0.8647529993738446, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_22", "sent_faithfulness": 0.7286826247970263, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_23", "sent_faithfulness": 0.8838054910302162, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_24", "sent_faithfulness": 0.9153227061033249, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_25", "sent_faithfulness": 0.8210351126534599, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_26", "sent_faithfulness": 0.7839909493923187, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_27", "sent_faithfulness": 0.8790334686636925, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_28", "sent_faithfulness": 0.7783334942327605, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Comprehensive-Sexuality-Education-Facilitators-Manual_v1_ko_window_29", "sent_faithfulness": 0.9804827372233073, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_0", "sent_faithfulness": 0.8786163181066513, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_1", "sent_faithfulness": 0.9114693403244019, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_2", "sent_faithfulness": 0.9057917520403862, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_3", "sent_faithfulness": 0.9161372780799866, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_4", "sent_faithfulness": 0.8168262727558613, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_5", "sent_faithfulness": 0.8391177803277969, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_6", "sent_faithfulness": 0.8022594563663006, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_7", "sent_faithfulness": 0.6733841011300683, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_8", "sent_faithfulness": 0.6839242790426526, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_9", "sent_faithfulness": 0.7592570334672928, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_10", "sent_faithfulness": 0.8324359506368637, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_11", "sent_faithfulness": 0.9361231252551079, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_12", "sent_faithfulness": 0.7515500336885452, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_13", "sent_faithfulness": 0.8035780957766941, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_14", "sent_faithfulness": 0.8180257827043533, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_15", "sent_faithfulness": 0.9066127613186836, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_16", "sent_faithfulness": 0.7557569933789117, "coverage": 0.7142857142857143, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_17", "sent_faithfulness": 0.7292478419840336, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_18", "sent_faithfulness": 0.5231195730822427, "coverage": 0.5714285714285714, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_19", "sent_faithfulness": 0.8620771765708923, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_20", "sent_faithfulness": 0.7825934406783845, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_21", "sent_faithfulness": 0.7211346966879708, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_22", "sent_faithfulness": 0.8831017762422562, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_23", "sent_faithfulness": 0.9679470658302307, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_24", "sent_faithfulness": 0.9798142090439796, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_25", "sent_faithfulness": 0.6438190620392561, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_26", "sent_faithfulness": 0.85082146525383, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_27", "sent_faithfulness": 0.8711209926340315, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_28", "sent_faithfulness": 0.6302185691893101, "coverage": 0.6666666666666666, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "Fabo Comprehensive Sexuality Education Toolkit-Trainers Instructional Guide _v1_ko_window_29", "sent_faithfulness": 0.9370824247598648, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_0", "sent_faithfulness": 0.8299905955791473, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_1", "sent_faithfulness": 0.8333736923005846, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_2", "sent_faithfulness": 0.9094927161931992, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_3", "sent_faithfulness": 0.8422584757208824, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_4", "sent_faithfulness": 0.8275766000151634, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_5", "sent_faithfulness": 0.9397659235530429, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_6", "sent_faithfulness": 0.9768590852618217, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_7", "sent_faithfulness": 0.9311292394995689, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_8", "sent_faithfulness": 0.7945846418539683, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_9", "sent_faithfulness": 0.692628500983119, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_10", "sent_faithfulness": 0.8835506998002529, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_11", "sent_faithfulness": 0.8956527151167393, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_12", "sent_faithfulness": 0.9272126406431198, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_13", "sent_faithfulness": 0.8177483305335045, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_14", "sent_faithfulness": 0.9014485563550677, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_15", "sent_faithfulness": 0.9189249447413853, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_16", "sent_faithfulness": 0.9112692102789879, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_17", "sent_faithfulness": 0.7097232853993773, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_18", "sent_faithfulness": 0.9326318949460983, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_19", "sent_faithfulness": 0.7543578829084124, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_20", "sent_faithfulness": 0.9554157927632332, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_21", "sent_faithfulness": 0.8811720460653305, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_22", "sent_faithfulness": 0.9833063350783454, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_23", "sent_faithfulness": 0.8425167525808016, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_24", "sent_faithfulness": 0.7728316895663738, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_25", "sent_faithfulness": 0.7565387061664036, "coverage": 0.7142857142857143, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_26", "sent_faithfulness": 0.811972763389349, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_27", "sent_faithfulness": 0.9490476325154305, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_28", "sent_faithfulness": 0.8156033344566822, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "IPPF_CSE-ACTIVITY-GUIDE_web_spreads_ENG_v1_ko_window_29", "sent_faithfulness": 0.5774302436038852, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_0", "sent_faithfulness": 0.8937583168347677, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_1", "sent_faithfulness": 0.7749956734478474, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_2", "sent_faithfulness": 0.9054628126323223, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_3", "sent_faithfulness": 0.9277050942182541, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_4", "sent_faithfulness": 0.7482702899724245, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_5", "sent_faithfulness": 0.6397661964098612, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_6", "sent_faithfulness": 0.7417942136526108, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_7", "sent_faithfulness": 0.7680121026933193, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_8", "sent_faithfulness": 0.8605344612151384, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_9", "sent_faithfulness": 0.921394057571888, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_10", "sent_faithfulness": 0.7714189812541008, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_11", "sent_faithfulness": 0.9185210838913918, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_12", "sent_faithfulness": 0.8847200175126394, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_13", "sent_faithfulness": 0.9490378424525261, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_14", "sent_faithfulness": 0.8393555916845798, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_15", "sent_faithfulness": 0.9015521142217848, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_16", "sent_faithfulness": 0.8453301917761564, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_17", "sent_faithfulness": 0.8866110954965863, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_18", "sent_faithfulness": 0.9088788032531738, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_19", "sent_faithfulness": 0.918447058647871, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_20", "sent_faithfulness": 0.8549328446388245, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_21", "sent_faithfulness": 0.8421423352426953, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_22", "sent_faithfulness": 0.8456503947575887, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_23", "sent_faithfulness": 0.8673235774040222, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_24", "sent_faithfulness": 0.7221099883317947, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_25", "sent_faithfulness": 0.8547621890902519, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_26", "sent_faithfulness": 0.8224863894283772, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_27", "sent_faithfulness": 0.8998811580240726, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_28", "sent_faithfulness": 0.9836681708693504, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNESCO International Technical Guidance on Sexuality Education_v1_ko_window_29", "sent_faithfulness": 0.871083028614521, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_0", "sent_faithfulness": 0.8052439192930857, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_1", "sent_faithfulness": 0.726771377854877, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_2", "sent_faithfulness": 0.8562905713915825, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_3", "sent_faithfulness": 0.8524753451347351, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_4", "sent_faithfulness": 0.7202176116406918, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_5", "sent_faithfulness": 0.5590366282396846, "coverage": 0.5555555555555556, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_6", "sent_faithfulness": 0.8819027245044708, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_7", "sent_faithfulness": 0.5811891816556454, "coverage": 0.5, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_8", "sent_faithfulness": 0.8501291498541832, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_9", "sent_faithfulness": 0.49977457771698636, "coverage": 0.5, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_10", "sent_faithfulness": 0.5572885975448622, "coverage": 0.5555555555555556, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_11", "sent_faithfulness": 0.9579217731952667, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_12", "sent_faithfulness": 0.9061082204182943, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_13", "sent_faithfulness": 0.5554407052695751, "coverage": 0.5, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_14", "sent_faithfulness": 0.8165503773424361, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_15", "sent_faithfulness": 0.9417851343750954, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_16", "sent_faithfulness": 0.8777918182313442, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_17", "sent_faithfulness": 0.745426873366038, "coverage": 0.6666666666666666, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_18", "sent_faithfulness": 0.8423162947098414, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_19", "sent_faithfulness": 0.7498197462409735, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_20", "sent_faithfulness": 0.8533547495802244, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_21", "sent_faithfulness": 0.953384154372745, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_22", "sent_faithfulness": 0.8733520749956369, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_23", "sent_faithfulness": 0.7021462414413691, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_24", "sent_faithfulness": 0.7095357875029246, "coverage": 0.6666666666666666, "n_sents": 3}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_25", "sent_faithfulness": 0.8772963881492615, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_26", "sent_faithfulness": 0.7869564476940367, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_27", "sent_faithfulness": 0.9383988645341661, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_28", "sent_faithfulness": 0.8293146980660302, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA CSE Participants Workbook_v1_ko_window_29", "sent_faithfulness": 0.8138963468372822, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_0", "sent_faithfulness": 0.8159231926713671, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_1", "sent_faithfulness": 0.9076018333435059, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_2", "sent_faithfulness": 0.907510869204998, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_3", "sent_faithfulness": 0.6029758341610432, "coverage": 0.5, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_4", "sent_faithfulness": 0.9870890577634176, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_5", "sent_faithfulness": 0.7047174442559481, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_6", "sent_faithfulness": 0.9355746209621429, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_7", "sent_faithfulness": 0.9033640660345554, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_8", "sent_faithfulness": 0.8828982450067997, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_9", "sent_faithfulness": 0.8749031722545624, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_10", "sent_faithfulness": 0.7718303104241689, "coverage": 0.6666666666666666, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_11", "sent_faithfulness": 0.7848687594135603, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_12", "sent_faithfulness": 0.9536802470684052, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_13", "sent_faithfulness": 0.8864391967654228, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_14", "sent_faithfulness": 0.7952709048986435, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_15", "sent_faithfulness": 0.8638382442295551, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_16", "sent_faithfulness": 0.7363390281796456, "coverage": 0.8, "n_sents": 10}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_17", "sent_faithfulness": 0.9436255362298753, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_18", "sent_faithfulness": 0.2962213311344385, "coverage": 0.2, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_19", "sent_faithfulness": 0.8347022235393524, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_20", "sent_faithfulness": 0.7935713628927866, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_21", "sent_faithfulness": 0.8883261531591415, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_22", "sent_faithfulness": 0.7655919883400202, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_23", "sent_faithfulness": 0.8758980669081211, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_24", "sent_faithfulness": 0.9128687679767609, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_25", "sent_faithfulness": 0.8280834155157208, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_26", "sent_faithfulness": 0.9013714157044888, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_27", "sent_faithfulness": 0.8765697851777077, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_28", "sent_faithfulness": 0.9394136518239975, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "UNFPA-MBMLMW_MOD3-EN_v1_ko_window_29", "sent_faithfulness": 0.8481146320700645, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_0", "sent_faithfulness": 0.9188225169976553, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_1", "sent_faithfulness": 0.7436611503362656, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_2", "sent_faithfulness": 0.8954663202166557, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_3", "sent_faithfulness": 0.8794718608260155, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_4", "sent_faithfulness": 0.9047775417566299, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_5", "sent_faithfulness": 0.8024097289890051, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_6", "sent_faithfulness": 0.9373771463121686, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_7", "sent_faithfulness": 0.5418620159228643, "coverage": 0.5, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_8", "sent_faithfulness": 0.8405322767794132, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_9", "sent_faithfulness": 0.9124331573645273, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_10", "sent_faithfulness": 0.7536182850599289, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_11", "sent_faithfulness": 0.9048107340931892, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_12", "sent_faithfulness": 0.9583590692943997, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_13", "sent_faithfulness": 0.898009404540062, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_14", "sent_faithfulness": 0.8142497771316104, "coverage": 0.8888888888888888, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_15", "sent_faithfulness": 0.8713420629501343, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_16", "sent_faithfulness": 0.9778635427355766, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_17", "sent_faithfulness": 0.7636904252900018, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_18", "sent_faithfulness": 0.8454047640164694, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_19", "sent_faithfulness": 0.6646367990308337, "coverage": 0.7777777777777778, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_20", "sent_faithfulness": 0.8954670561684502, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_21", "sent_faithfulness": 0.9061797048364367, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_22", "sent_faithfulness": 0.842033428805215, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_23", "sent_faithfulness": 0.7957348525524139, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_24", "sent_faithfulness": 0.8840103050072988, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_25", "sent_faithfulness": 0.8137980811297894, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_26", "sent_faithfulness": 0.828215221563975, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_27", "sent_faithfulness": 0.8136346382754189, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_28", "sent_faithfulness": 0.825630111353738, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "성교육 가이드북_v1_window_29", "sent_faithfulness": 0.7046818009444645, "coverage": 0.7142857142857143, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_0", "sent_faithfulness": 0.735436424612999, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_1", "sent_faithfulness": 0.679835595190525, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_2", "sent_faithfulness": 0.8259043216705322, "coverage": 1.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_3", "sent_faithfulness": 0.19943540543317795, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_4", "sent_faithfulness": 0.26835318356752397, "coverage": 0.2, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_5", "sent_faithfulness": 0.228062242269516, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_6", "sent_faithfulness": 0.8679822172437396, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_7", "sent_faithfulness": 0.1692398190498352, "coverage": 0.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_8", "sent_faithfulness": 0.7412758256707873, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_9", "sent_faithfulness": 0.16617120653390885, "coverage": 0.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_10", "sent_faithfulness": 0.16576015651226045, "coverage": 0.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_11", "sent_faithfulness": 0.16507084518671036, "coverage": 0.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_12", "sent_faithfulness": 0.18775542378425597, "coverage": 0.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_13", "sent_faithfulness": 0.2089950516819954, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_14", "sent_faithfulness": 0.32374873012304306, "coverage": 0.5, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_15", "sent_faithfulness": 0.30030926764011384, "coverage": 0.2, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_16", "sent_faithfulness": 0.1559224213872637, "coverage": 0.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_17", "sent_faithfulness": 0.7040911763906479, "coverage": 0.7142857142857143, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_18", "sent_faithfulness": 0.8359788656234741, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_19", "sent_faithfulness": 0.1976204477250576, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_20", "sent_faithfulness": 0.491764030286244, "coverage": 0.5714285714285714, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_21", "sent_faithfulness": 0.2145760878920555, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_22", "sent_faithfulness": 0.16964399218559265, "coverage": 0.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_23", "sent_faithfulness": 0.19468385353684425, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_24", "sent_faithfulness": 0.5484128445386887, "coverage": 0.625, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_25", "sent_faithfulness": 0.1987677738070488, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_26", "sent_faithfulness": 0.2046123743057251, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_27", "sent_faithfulness": 0.19667545706033707, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_28", "sent_faithfulness": 0.20592643693089485, "coverage": 0.0, "n_sents": 2}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_utf8_window_29", "sent_faithfulness": 0.8964783847332001, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_window_0", "sent_faithfulness": 0.7532010823488235, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_window_1", "sent_faithfulness": 0.7401213645935059, "coverage": 0.7142857142857143, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_window_2", "sent_faithfulness": 0.8661251403391361, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "유네스코 국제 성교육 가이드 라인_v1_window_3", "sent_faithfulness": 0.8452181667089462, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_0", "sent_faithfulness": 0.8282725214958191, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_1", "sent_faithfulness": 0.6967154014855623, "coverage": 0.6666666666666666, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_2", "sent_faithfulness": 0.737477807328105, "coverage": 0.75, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_3", "sent_faithfulness": 0.838650293648243, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_4", "sent_faithfulness": 0.7274953126907349, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_5", "sent_faithfulness": 0.8345699434479078, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_6", "sent_faithfulness": 0.9874477311968803, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_7", "sent_faithfulness": 0.7189103905111551, "coverage": 0.6666666666666666, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_8", "sent_faithfulness": 0.9896663129329681, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_9", "sent_faithfulness": 0.8337045865399497, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_10", "sent_faithfulness": 0.9765029475092888, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_11", "sent_faithfulness": 0.6170921164254347, "coverage": 0.6666666666666666, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_12", "sent_faithfulness": 0.7590418926307133, "coverage": 0.7142857142857143, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_13", "sent_faithfulness": 0.8892415960629781, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_14", "sent_faithfulness": 0.9886964708566666, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_내 몸 속 건강지키기_v1_window_15", "sent_faithfulness": 0.994917131960392, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_0", "sent_faithfulness": 0.9362887399537223, "coverage": 1.0, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_1", "sent_faithfulness": 0.9079651236534119, "coverage": 0.875, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_2", "sent_faithfulness": 0.9555925793117948, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_3", "sent_faithfulness": 0.9835773971345689, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_4", "sent_faithfulness": 0.9432754119237264, "coverage": 1.0, "n_sents": 3}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_5", "sent_faithfulness": 0.9480553799205356, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_6", "sent_faithfulness": 0.6608789563179016, "coverage": 1.0, "n_sents": 5}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_7", "sent_faithfulness": 0.9046597480773926, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_8", "sent_faithfulness": 0.9361209273338318, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_9", "sent_faithfulness": 0.7283345262209574, "coverage": 0.8333333333333334, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_성적 의사소통 지침서_v1_window_10", "sent_faithfulness": 0.9789838592211405, "coverage": 1.0, "n_sents": 9}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_피임이 필요해_v1_window_0", "sent_faithfulness": 0.7612510451248714, "coverage": 0.8571428571428571, "n_sents": 7}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_피임이 필요해_v1_window_1", "sent_faithfulness": 0.9357568720976511, "coverage": 1.0, "n_sents": 6}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_피임이 필요해_v1_window_2", "sent_faithfulness": 0.9679713472723961, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_피임이 필요해_v1_window_3", "sent_faithfulness": 0.8161963894963264, "coverage": 1.0, "n_sents": 8}
+{"source": "generations_all13.rrf.top8.jsonl", "id": "화성시청소년성문화센터_피임이 필요해_v1_window_4", "sent_faithfulness": 0.9184135595957438, "coverage": 1.0, "n_sents": 6}

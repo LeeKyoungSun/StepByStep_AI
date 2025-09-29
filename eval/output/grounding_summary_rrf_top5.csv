@@ -1,0 +1,7 @@
+file,source,rows,macro_faith,macro_cov,weight_faith,weight_cov,cov_1_cnt,cov_0_cnt
+eval/output/grounding.scores_rrf_top5_0.4.jsonl,,306,0.7534,0.8125,0.7763,0.8454,93,18
+eval/output/grounding.scores_rrf_top5_0.4.jsonl,generations_all13.rrf.top5.jsonl,306,0.7534,0.8125,0.7763,0.8454,93,18
+eval/output/grounding.scores_rrf_top5_0.5.jsonl,,306,0.7534,0.7754,0.7763,0.8074,71,18
+eval/output/grounding.scores_rrf_top5_0.5.jsonl,generations_all13.rrf.top5.jsonl,306,0.7534,0.7754,0.7763,0.8074,71,18
+eval/output/grounding.scores_rrf_top5_0.6.jsonl,,306,0.7534,0.7338,0.7763,0.7645,42,18
+eval/output/grounding.scores_rrf_top5_0.6.jsonl,generations_all13.rrf.top5.jsonl,306,0.7534,0.7338,0.7763,0.7645,42,18
