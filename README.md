@@ -1,4 +1,4 @@
-# RAG Stack (Embeddings → FAISS → RAG → Moderation)
+# RAG Stack (Embeddings → FAISS & bm25 → RAG → Moderation)
 
 한국어 청소년 성교육 챗봇을 위한 최소구성 RAG 스택입니다.
 
@@ -40,7 +40,7 @@ curl -X POST http://localhost:8000/ask -H "Content-Type: application/json" -d '{
 
 ## 폴더
 - `data/` : txt 원문
-- `index/` : FAISS 인덱스(`faiss.index`), 메타데이터(`meta.jsonl`), 설정(`index_info.json`)
+- `index/` : FAISS 인덱스(`faiss.index`), bm25 인덱스(`bm25.pkl`),  메타데이터(`meta.jsonl`), 설정(`index_info.json`)
 
 ## 참고
 - 청크 크기/겹침, k값 등은 `build_index.py`, `utils/chunker.py`에서 조절하세요.
