@@ -1,0 +1,19 @@
+# 환경 변수 파일
+.env
+
+# 가상환경
+.venv/
+venv/
+
+# 캐시/로그
+__pycache__/
+*.pyc
+*.log
+
+# IDE 설정
+.idea/
+.vscode/
+
+# 대용량 자료
+data_clean/
+indexes/
