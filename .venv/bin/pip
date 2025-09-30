@@ -1,4 +1,4 @@
-#!/Users/leekyoungsun/PycharmProjects/StepByStep_AI/.venv/bin/python3
+#!/Users/leekyoungsun/PycharmProjects/StepByStep_AI/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

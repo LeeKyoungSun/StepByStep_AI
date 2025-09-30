@@ -22,7 +22,8 @@ from faiss.array_conversions import *
 from faiss.extra_wrappers import kmin, kmax, pairwise_distances, rand, randint, \
     lrand, randn, rand_smooth_vectors, eval_intersection, normalize_L2, \
     ResultHeap, knn, Kmeans, checksum, matrix_bucket_sort_inplace, bucket_sort, \
-    merge_knn_results
+    merge_knn_results, MapInt64ToInt64, knn_hamming, \
+    pack_bitstrings, unpack_bitstrings
 
 
 __version__ = "%d.%d.%d" % (FAISS_VERSION_MAJOR,
@@ -41,6 +42,7 @@ class_wrappers.handle_MapLong2Long(MapLong2Long)
 class_wrappers.handle_IDSelectorSubset(IDSelectorBatch, class_owns=True)
 class_wrappers.handle_IDSelectorSubset(IDSelectorArray, class_owns=False)
 class_wrappers.handle_IDSelectorSubset(IDSelectorBitmap, class_owns=False, force_int64=False)
+class_wrappers.handle_CodeSet(CodeSet)
 
 this_module = sys.modules[__name__]
 
@@ -192,6 +194,10 @@ add_ref_in_constructor(IDSelectorNot, 0)
 add_ref_in_constructor(IDSelectorAnd, slice(2))
 add_ref_in_constructor(IDSelectorOr, slice(2))
 add_ref_in_constructor(IDSelectorXOr, slice(2))
+add_ref_in_constructor(IDSelectorTranslated, slice(2))
+
+add_ref_in_constructor(IDSelectorXOr, slice(2))
+add_ref_in_constructor(IndexIVFIndependentQuantizer, slice(3))
 
 # seems really marginal...
 # remove_ref_from_method(IndexReplicas, 'removeIndex', 0)
@@ -293,10 +299,10 @@ def serialize_index(index):
     return vector_to_array(writer.data)
 
 
-def deserialize_index(data):
+def deserialize_index(data, io_flags=0):
     reader = VectorIOReader()
     copy_array_to_vector(data, reader.data)
-    return read_index(reader)
+    return read_index(reader, io_flags)
 
 
 def serialize_index_binary(index):
